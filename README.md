@@ -142,7 +142,6 @@ Building an Infrastructure as Code project to provision and manage AWS networkin
 - Organizing infrastructure configuration into maintainable Terraform files.
 - Learning resource dependencies, state management, variables, outputs, and reusable modules.
 
-**Status:** In progress
 
 ### 🐳 Containerized Application Deployment & CI/CD
 
@@ -155,7 +154,6 @@ Developing a practical DevOps project focused on containerization and automated 
 - Exploring automated build, test, and deployment workflows.
 - Practicing deployment troubleshooting, application configuration, and rollout management.
 
-**Status:** Planned / in progress
 
 ### ♟️ AI Chess Application with Explainable AI
 
